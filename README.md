@@ -7,6 +7,8 @@ a pocket calculator.
 [![Build Status](https://dev.azure.com/imran1311/DevOps-ProjectDemo/_apis/build/status/imranuzzama.calculator?branchName=master)](https://dev.azure.com/imran1311/DevOps-ProjectDemo/_build/latest?definitionId=3&branchName=master)
 
 
+https://dev.azure.com/imran1311/DevOps-ProjectDemo/_apis/build/status/imranuzzama.calculator?branchName=master
+
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
